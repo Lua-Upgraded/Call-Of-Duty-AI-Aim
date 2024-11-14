@@ -1,4 +1,4 @@
-# Call-Of-Duty-AI-Aimmy
+# Call-Of-Duty-AI-Aim
 Free to use
 
 The AI has been trained with over 10,000 hours of training using the yolov8 model and 500,000+ photos
